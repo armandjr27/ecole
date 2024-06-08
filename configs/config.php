@@ -2,9 +2,9 @@
 /**
  * Info Base de donnée
  */
-define('HOST', 'localhost');
-define('DBNAME', 'ecole');
-define('USER', 'root');
+define('HOST', '');
+define('DBNAME', '');
+define('USER', '');
 define('PASSWORD', '');
 
 /**
